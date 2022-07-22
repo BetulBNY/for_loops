@@ -7,7 +7,7 @@ public class loops {
 	public static void main(String[] args) {
 		
 		
-		//EX1  make table 1 to 100 around frame	
+		//EX1  make table 1 to 100 add frame around	
 		for(int k=0;k<27;k++)
 			System.out.printf("  *");
 		System.out.println(" ");					
